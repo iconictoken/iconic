@@ -1,0 +1,9 @@
+Building Iconic
+
+See doc/readme-qt.rst for instructions on building Iconic QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Iconic.
+
+See doc/build-*.txt for instructions on building Iconicd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Iconic.

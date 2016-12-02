@@ -1,0 +1,2 @@
+debian/bin/Iconicd usr/bin
+src/Iconicd usr/lib/Iconic
