@@ -10,7 +10,7 @@ SetCompressor /SOLID lzma
 !define URL http://www.Iconic.ru/
 
 # MUI Symbol Definitions
-!define MUI_ICON "../share/pixmaps/Iconic.ico"
+!define MUI_ICON "../share/pixmaps/iconic.ico"
 !define MUI_WELCOMEFINISHPAGE_BITMAP "../share/pixmaps/nsis-wizard.bmp"
 !define MUI_HEADERIMAGE
 !define MUI_HEADERIMAGE_RIGHT

@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/Iconic.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/iconic.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
